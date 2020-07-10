@@ -5,7 +5,9 @@
 This project was interesting and I would be so glad to get
 feedback from reviewer.
 
-[My LinkedIn profile](www.linkedin.com/in/rostikts)
+My LinkedIn profile
+
+www.linkedin.com/in/rostikts
 
 My email:
 
