@@ -14,7 +14,7 @@ class JustTest(unittest.TestCase):
     def setUp(self):
 
             self.driver = webdriver.Remote(command_executor='http://127.0.0.1:4444/wd/hub',
-            desired_capabilities= desired_cap[browser_index])
+            desired_capabilities= desired_cap[0])
             self.driver.get(URL)
             self.driver.maximize_window()
 
@@ -66,6 +66,4 @@ class JustTest(unittest.TestCase):
 
 
 if __name__ == "__main__":
-
-    browser_index = choose_browser()
     unittest.main()
